@@ -1,0 +1,33 @@
+html {
+  font-size: 10px;
+  font-family: 'Rubik', sans-serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+p, li {
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 2;
+}
+html {
+	background-color: #f5f4f2;
+}
+body {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #f0e7c2;
+	padding: 0 30px 30px 30px;
+	border: 2px solid white;
+}
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #0a0a09;
+	text-shadow: 3px 3px 1px black;
+}
+img {
+	display: block;
+	margin: 0 auto;
+}
